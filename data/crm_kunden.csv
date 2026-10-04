@@ -1,0 +1,189 @@
+kunden_nr,firmenname,uid,email,land
+K-10041,Baumgartner Recycling GmbH,ATU10371517,office@baumgartner.at,AT
+K-10042,Lechner Event KG,ATU10371554,office@lechner.at,AT
+K-10043,Schmid Fuhrpark KG,ATU10371591,office@schmid.at,AT
+K-10044,Schwarz Textil OG,ATU10371628,office@schwarz.at,AT
+K-10045,Gruber Consulting KG,ATU10371665,office@gruber.at,AT
+K-10046,Bachmann Consulting GmbH,ATU 10371702,office@bachmann.at,AT
+K-10047,Ebner IT-Service GmbH,ATU10371739,office@ebner.at,AT
+K-10048,Winkler Reinigung GmbH,ATU10371776,office@winkler.at,AT
+K-10049,Hiller Personalvermittlung KG,ATU 10371813,office@hiller.at,AT
+K-10050,Aigner Sicherheit GmbH,ATU 10371850,office@aigner.at,AT
+K-10051,Kofler Maschinenbau OG,ATU10371887,office@kofler.at,AT
+K-10052,Haas Spedition OG,ATU 10371924,office@haas.at,AT
+K-10053,Hofer Installation OG,ATU10371961,office@hofer.at,AT
+K-10054,Wimmer Transport KG,ATU10371998,office@wimmer.at,AT
+K-10055,Trenker Logistik KG,ATU10372035,office@trenker.at,AT
+K-10056,Scheidl Sanitaer GmbH,ATU10372072,office@scheidl.at,AT
+K-10057,Moser Druck GmbH,ATU10372109,office@moser.at,AT
+K-10058,Auer Installationstechnik GmbH,ATU 10372146,office@auer.at,AT
+K-10059,Oberleitner Fliesen GmbH,ATU10372183,office@oberleitner.at,AT
+K-10060,Mayer Bau KG,ATU 10372220,office@mayer.at,AT
+K-10061,Zeiler Catering OG,ATU10372257,office@zeiler.at,AT
+K-10062,Maier Catering OG,ATU10372294,office@maier.at,AT
+K-10063,Mader Optik GmbH,ATU10372331,office@mader.at,AT
+K-10064,Eder Metallbau OG,ATU10372368,office@eder.at,AT
+K-10065,Vogl Elektrotechnik GmbH,ATU 10372405,office@vogl.at,AT
+K-10066,Jenewein Fenster GmbH,ATU 10372442,office@jenewein.at,AT
+K-10067,Gatterer Steuerberatung GmbH,ATU10372479,office@gatterer.at,AT
+K-10068,Reiter Garten GmbH,ATU10372516,office@reiter.at,AT
+K-10069,Binder Werbung GmbH,ATU10372553,office@binder.at,AT
+K-10070,Wallner Spedition OG,ATU10372590,office@wallner.at,AT
+K-10071,Colli Transport GmbH,ATU 10372627,office@colli.at,AT
+K-10072,Payer Buchhaltung GmbH,ATU 10372664,office@payer.at,AT
+K-10073,Lindner Papier GmbH,ATU10372701,office@lindner.at,AT
+K-10074,Amann Bau GmbH,ATU 10372738,office@amann.at,AT
+K-10075,Lang Immobilien GmbH,ATU 10372775,office@lang.at,AT
+K-10076,Falk Software GmbH,ATU 10372812,office@falk.at,AT
+K-10077,Dobler Handel OG,ATU 10372849,office@dobler.at,AT
+K-10078,Steiner Elektro OG,ATU 10372886,office@steiner.at,AT
+K-10079,Fischer Malerei GmbH,ATU10372923,office@fischer.at,AT
+K-10080,Rauch Dachdecker GmbH,ATU 10372960,office@rauch.at,AT
+K-10081,Leitner Handel GmbH,ATU10372997,office@leitner.at,AT
+K-10082,Niedermayer Verpackung GmbH,ATU10373034,office@niedermayer.at,AT
+K-10083,Berger Metallbau KG,ATU10373071,office@berger.at,AT
+K-10084,Pichler Gastro OG,ATU 10373108,office@pichler.at,AT
+K-10085,Brunner Agrar GmbH,ATU 10373145,office@brunner.at,AT
+K-10086,Egger Holzbau GmbH,ATU10373182,office@egger.at,AT
+K-10087,Wolf Grafik GmbH,ATU10373219,office@wolf.at,AT
+K-10088,Huber Logistik GmbH,ATU10373256,office@huber.at,AT
+K-10089,Fuchs Software GmbH,ATU 10373293,office@fuchs.at,AT
+K-10090,Unterberger Agrar KG,ATU10373330,office@unterberger.at,AT
+K-10091,Baumgartner Recycling KG,ATU10373367,office@baumgartner.at,AT
+K-10092,Lechner Event OG,ATU10373404,office@lechner.at,AT
+K-10093,Schmid Fuhrpark KG,ATU 10373441,office@schmid.at,AT
+K-10094,Schwarz Textil GmbH,ATU 10373478,office@schwarz.at,AT
+K-10095,Gruber Consulting KG,ATU10373515,office@gruber.at,AT
+K-10096,Bachmann Consulting GmbH,ATU10373552,office@bachmann.at,AT
+K-10097,Ebner IT-Service OG,ATU10373589,office@ebner.at,AT
+K-10098,Winkler Reinigung GmbH,ATU10373626,office@winkler.at,AT
+K-10099,Hiller Personalvermittlung KG,ATU10373663,office@hiller.at,AT
+K-10100,Aigner Sicherheit GmbH,ATU 10373700,office@aigner.at,AT
+K-10101,Kofler Maschinenbau OG,ATU 10373737,office@kofler.at,AT
+K-10102,Haas Spedition GmbH,ATU 10373774,office@haas.at,AT
+K-10103,Hofer Installation GmbH,ATU10373811,office@hofer.at,AT
+K-10104,Wimmer Transport KG,ATU10373848,office@wimmer.at,AT
+K-10105,Trenker Logistik KG,ATU 10373885,office@trenker.at,AT
+K-10106,Scheidl Sanitaer OG,ATU10373922,office@scheidl.at,AT
+K-10107,Moser Druck KG,ATU 10373959,office@moser.at,AT
+K-10108,Auer Installationstechnik GmbH,ATU10373996,office@auer.at,AT
+K-10109,Oberleitner Fliesen KG,ATU10374033,office@oberleitner.at,AT
+K-10110,Mayer Bau OG,ATU10374070,office@mayer.at,AT
+K-10111,Zeiler Catering OG,ATU10374107,office@zeiler.at,AT
+K-10112,Maier Catering GmbH,ATU10374144,office@maier.at,AT
+K-10113,Mader Optik KG,ATU10374181,office@mader.at,AT
+K-10114,Eder Metallbau GmbH,ATU10374218,office@eder.at,AT
+K-10115,Vogl Elektrotechnik GmbH,ATU10374255,office@vogl.at,AT
+K-10116,Jenewein Fenster GmbH,ATU 10374292,office@jenewein.at,AT
+K-10117,Gatterer Steuerberatung GmbH,ATU10374329,office@gatterer.at,AT
+K-10118,Reiter Garten OG,ATU10374366,office@reiter.at,AT
+K-10119,Binder Werbung GmbH,ATU10374403,office@binder.at,AT
+K-10120,Wallner Spedition OG,ATU 10374440,office@wallner.at,AT
+K-10121,Colli Transport OG,ATU10374477,office@colli.at,AT
+K-10122,Payer Buchhaltung OG,ATU10374514,office@payer.at,AT
+K-10123,Lindner Papier OG,ATU10374551,office@lindner.at,AT
+K-10124,Amann Bau GmbH,ATU10374588,office@amann.at,AT
+K-10125,Lang Immobilien GmbH,ATU 10374625,office@lang.at,AT
+K-10126,Falk Software KG,ATU10374662,office@falk.at,AT
+K-10127,Dobler Handel GmbH,ATU10374699,office@dobler.at,AT
+K-10128,Steiner Elektro OG,ATU 10374736,office@steiner.at,AT
+K-10129,Fischer Malerei GmbH,ATU10374773,office@fischer.at,AT
+K-10130,Rauch Dachdecker KG,ATU 10374810,office@rauch.at,AT
+K-10131,Leitner Handel GmbH,ATU10374847,office@leitner.at,AT
+K-10132,Niedermayer Verpackung OG,ATU10374884,office@niedermayer.at,AT
+K-10133,Berger Metallbau GmbH,ATU10374921,office@berger.at,AT
+K-10134,Pichler Gastro OG,ATU 10374958,office@pichler.at,AT
+K-10135,Brunner Agrar GmbH,ATU10374995,office@brunner.at,AT
+K-10136,Egger Holzbau OG,ATU 10375032,office@egger.at,AT
+K-10137,Wolf Grafik KG,ATU 10375069,office@wolf.at,AT
+K-10138,Huber Logistik GmbH,ATU10375106,office@huber.at,AT
+K-10139,Fuchs Software GmbH,ATU10375143,office@fuchs.at,AT
+K-10140,Unterberger Agrar KG,ATU10375180,office@unterberger.at,AT
+K-10141,Baumgartner Recycling GmbH,ATU10375217,office@baumgartner.at,AT
+K-10142,Lechner Event KG,ATU10375254,office@lechner.at,AT
+K-10143,Schmid Fuhrpark GmbH,ATU 10375291,office@schmid.at,AT
+K-10144,Schwarz Textil KG,ATU10375328,office@schwarz.at,AT
+K-10145,Gruber Consulting GmbH,ATU10375365,office@gruber.at,AT
+K-10146,Bachmann Consulting KG,ATU 10375402,office@bachmann.at,AT
+K-10147,Ebner IT-Service KG,ATU10375439,office@ebner.at,AT
+K-10148,Winkler Reinigung KG,ATU10375476,office@winkler.at,AT
+K-10149,Hiller Personalvermittlung KG,ATU10375513,office@hiller.at,AT
+K-10150,Aigner Sicherheit OG,ATU 10375550,office@aigner.at,AT
+K-10151,Kofler Maschinenbau GmbH,ATU10375587,office@kofler.at,AT
+K-10152,Haas Spedition KG,ATU10375624,office@haas.at,AT
+K-10153,Hofer Installation GmbH,ATU10375661,office@hofer.at,AT
+K-10154,Wimmer Transport GmbH,ATU10375698,office@wimmer.at,AT
+K-10155,Trenker Logistik GmbH,ATU 10375735,office@trenker.at,AT
+K-10156,Scheidl Sanitaer KG,ATU10375772,office@scheidl.at,AT
+K-10157,Moser Druck KG,ATU10375809,office@moser.at,AT
+K-10158,Auer Installationstechnik GmbH,ATU10375846,office@auer.at,AT
+K-10159,Oberleitner Fliesen GmbH,ATU 10375883,office@oberleitner.at,AT
+K-10160,Mayer Bau KG,ATU10375920,office@mayer.at,AT
+K-10161,Zeiler Catering KG,ATU 10375957,office@zeiler.at,AT
+K-10162,Maier Catering KG,ATU10375994,office@maier.at,AT
+K-10163,Mader Optik GmbH,ATU10376031,office@mader.at,AT
+K-10164,Eder Metallbau GmbH,ATU 10376068,office@eder.at,AT
+K-10165,Vogl Elektrotechnik OG,ATU 10376105,office@vogl.at,AT
+K-10166,Jenewein Fenster KG,ATU 10376142,office@jenewein.at,AT
+K-10167,Gatterer Steuerberatung GmbH,ATU10376179,office@gatterer.at,AT
+K-10168,Reiter Garten OG,ATU10376216,office@reiter.at,AT
+K-10169,Binder Werbung GmbH,ATU10376253,office@binder.at,AT
+K-10170,Wallner Spedition GmbH,ATU 10376290,office@wallner.at,AT
+K-10171,Colli Transport GmbH,ATU 10376327,office@colli.at,AT
+K-10172,Payer Buchhaltung GmbH,ATU10376364,office@payer.at,AT
+K-10173,Lindner Papier GmbH,ATU10376401,office@lindner.at,AT
+K-10174,Amann Bau GmbH,ATU 10376438,office@amann.at,AT
+K-10175,Lang Immobilien KG,ATU10376475,office@lang.at,AT
+K-10176,Falk Software KG,ATU10376512,office@falk.at,AT
+K-10177,Dobler Handel OG,ATU10376549,office@dobler.at,AT
+K-10178,Steiner Elektro GmbH,ATU10376586,office@steiner.at,AT
+K-10179,Fischer Malerei GmbH,ATU10376623,office@fischer.at,AT
+K-10180,Rauch Dachdecker OG,ATU10376660,office@rauch.at,AT
+K-10181,Leitner Handel KG,ATU10376697,office@leitner.at,AT
+K-10182,Niedermayer Verpackung OG,ATU 10376734,office@niedermayer.at,AT
+K-10183,Berger Metallbau OG,ATU 10376771,office@berger.at,AT
+K-10184,Pichler Gastro GmbH,ATU10376808,office@pichler.at,AT
+K-10185,Brunner Agrar KG,ATU10376845,office@brunner.at,AT
+K-10186,Egger Holzbau KG,ATU10376882,office@egger.at,AT
+K-10187,Wolf Grafik GmbH,ATU 10376919,office@wolf.at,AT
+K-10188,Huber Logistik KG,ATU10376956,office@huber.at,AT
+K-10189,Fuchs Software GmbH,ATU10376993,office@fuchs.at,AT
+K-10190,Unterberger Agrar KG,ATU10377030,office@unterberger.at,AT
+K-10191,Baumgartner Recycling GmbH,,info@baumgartner.co.at,AT
+K-10192,Lechner Event GmbH,,info@lechner.co.at,AT
+K-10193,Schmid Fuhrpark GmbH,,info@schmid.co.at,AT
+K-10194,Schwarz Textil GmbH,,info@schwarz.co.at,AT
+K-10195,Gruber Consulting GmbH,,info@gruber.co.at,AT
+K-10196,Bachmann Consulting GmbH,,info@bachmann.co.at,AT
+K-10197,Ebner IT-Service GmbH,,info@ebner.co.at,AT
+K-10198,Winkler Reinigung GmbH,,info@winkler.co.at,AT
+K-10199,Hiller Personalvermittlung GmbH,,info@hiller.co.at,AT
+K-10200,Aigner Sicherheit GmbH,,info@aigner.co.at,AT
+K-10201,Kofler Maschinenbau GmbH,,info@kofler.co.at,AT
+K-10202,Haas Spedition GmbH,,info@haas.co.at,AT
+K-10203,Hofer Installation GmbH,,info@hofer.co.at,AT
+K-10204,Wimmer Transport GmbH,,info@wimmer.co.at,AT
+K-10205,Trenker Logistik GmbH,,info@trenker.co.at,AT
+K-10206,Scheidl Sanitaer GmbH,,kontakt10206@scheidl.at,DE
+K-10207,Moser Druck GmbH,,kontakt10207@moser.at,DE
+K-10208,Auer Installationstechnik GmbH,,kontakt10208@auer.at,DE
+K-10209,Oberleitner Fliesen GmbH,,kontakt10209@oberleitner.at,DE
+K-10210,Mayer Bau GmbH,,kontakt10210@mayer.at,AT
+K-10211,Zeiler Catering GmbH,,kontakt10211@zeiler.at,AT
+K-10212,Maier Catering GmbH,,kontakt10212@maier.at,DE
+K-10213,Mader Optik GmbH,,kontakt10213@mader.at,AT
+K-10214,Eder Metallbau GmbH,,kontakt10214@eder.at,DE
+K-10215,Vogl Elektrotechnik GmbH,,kontakt10215@vogl.at,AT
+K-10216,Jenewein Fenster GmbH,,kontakt10216@jenewein.at,DE
+K-10217,Gatterer Steuerberatung GmbH,,kontakt10217@gatterer.at,DE
+K-10218,Reiter Garten GmbH,,kontakt10218@reiter.at,DE
+K-10219,Binder Werbung GmbH,,kontakt10219@binder.at,DE
+K-10220,Wallner Spedition GmbH,,kontakt10220@wallner.at,AT
+K-10221,Colli Transport e.U.,ATU10378177,office@colli.at,AT
+K-10222,Payer Buchhaltung e.U.,ATU10378214,office@payer.at,AT
+K-10223,Lindner Papier e.U.,ATU10378251,office@lindner.at,AT
+K-10224,Amann Bau e.U.,ATU10378288,office@amann.at,AT
+K-10225,Lang Immobilien e.U.,ATU10378325,office@lang.at,AT
+K-10226,Falk Software e.U.,ATU10378362,office@falk.at,AT
+K-10227,Dobler Handel e.U.,ATU10378399,office@dobler.at,AT
+K-10228,Steiner Elektro e.U.,ATU10378436,office@steiner.at,AT
